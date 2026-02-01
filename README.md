@@ -1,4 +1,4 @@
-# Ecommerce Platform (Vanilla JS)
+# Ecommerce Platform
 
 A simple ecommerce front-end built with **HTML + CSS + JavaScript** using the public **DummyJSON** products API. It supports product listing with pagination, search with suggestions, product detail pages, and local visit/search history stored in `localStorage`.
 
